@@ -11,7 +11,7 @@
 ---
 
 ## 👩‍💻 Who am I?
-I’m a **Computer Science Engineering student** who loves **learning by building projects**.  
+I’m a **Computer Science Engineering graduate** who loves **learning by building projects**.  
 I’m interested in **web development, backend systems, and problem-solving**, and I enjoy turning ideas into real applications.
 
 ---
